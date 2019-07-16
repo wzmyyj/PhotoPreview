@@ -12,7 +12,10 @@ import top.wzmyyj.preview.FPreviewActivity;
 
 public class ImageLookActivity extends FPreviewActivity {
 
-
-
+    @Override
+    public int setContentLayout() {
+        // 可换成自定义布局。
+        return super.setContentLayout();
+    }
 }
 

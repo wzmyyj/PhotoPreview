@@ -17,7 +17,8 @@ import android.util.AttributeSet;
 import android.view.animation.AccelerateDecelerateInterpolator;
 import android.widget.ImageView;
 
-import top.wzmyyj.photoview.PhotoView;
+import top.wzmyyj.preview.weight.photoview.PhotoView;
+
 
 /**
  * Created on 2019/06/27
