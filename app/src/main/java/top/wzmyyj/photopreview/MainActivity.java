@@ -76,8 +76,8 @@ public class MainActivity extends AppCompatActivity {
                 .setData(mThumbViewInfoList)
                 .setCurrentIndex(0)
                 .setSingleFling(true)
-//                .setType(PreviewConfig.IndicatorType.Number)// 数字
-                .setType(PreviewConfig.IndicatorType.Dot) // 小圆点
+                .setType(PreviewConfig.IndicatorType.Number)// 数字
+//                .setType(PreviewConfig.IndicatorType.Dot) // 小圆点
                 .start();//启动
     }
 }
