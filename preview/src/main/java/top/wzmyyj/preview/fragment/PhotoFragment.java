@@ -13,15 +13,14 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.ProgressBar;
 
-import top.wzmyyj.photoview.OnOutsidePhotoTapListener;
-import top.wzmyyj.photoview.OnPhotoTapListener;
-import top.wzmyyj.photoview.OnScaleChangedListener;
+
 import top.wzmyyj.preview.R;
 import top.wzmyyj.preview.base.OnExitListener;
 import top.wzmyyj.preview.base.OnLockListener;
 import top.wzmyyj.preview.loader.ImageLoadSimpleTarget;
 import top.wzmyyj.preview.utils.PreviewManager;
 import top.wzmyyj.preview.weight.SmoothPhotoView;
+import top.wzmyyj.preview.weight.photoview.*;
 
 /**
  * Created on 2019/06/25.
