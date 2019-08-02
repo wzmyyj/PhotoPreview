@@ -18,7 +18,6 @@ import top.wzmyyj.preview.utils.PreviewManager;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static final String TAG = "FEL";
     private ImageView imageView;
 
     @Override
